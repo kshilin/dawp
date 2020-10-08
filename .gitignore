@@ -11,4 +11,5 @@
 .Rhistory
 .DS_Store
 *.ipynb_checkpoints
-new_hw/ # папка чтобы не палить ДЗ
+# папки чтобы не палить ДЗ
+new_hw/ 
