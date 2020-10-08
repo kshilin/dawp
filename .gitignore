@@ -1,0 +1,14 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+.Rhistory
+.DS_Store
+*.ipynb_checkpoints
+new_hw/ # папка чтобы не палить ДЗ
