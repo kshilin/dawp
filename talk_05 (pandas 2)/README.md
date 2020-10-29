@@ -1,4 +1,4 @@
 ## Домашнее задание
 
 Дедлайн 4 ноября 2020 23:00 по Москве.
-Задание находим по ссылке:https://classroom.github.com/a/WK3RRGAP
+Задание находим по ссылке: https://classroom.github.com/a/WK3RRGAP
