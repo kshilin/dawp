@@ -6,4 +6,4 @@
 4. Добавлены коментарии к ДЗ-02 в [talk_02](https://github.com/kshilin/dawp/tree/master/talk_02%20(numpy%201)) 
 5. Добавлено ДЗ-03 в [talk_05](https://github.com/kshilin/dawp/tree/master/talk_05%20(pandas%202)) 
 6. Добавлено [ДЗ-04](https://classroom.github.com/a/myGd_kxW)
-7. [Контрольная работа](https://classroom.github.com/a/n9bRkMp0)
+7. Опубликован результат контрольной
