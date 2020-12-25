@@ -7,3 +7,5 @@
 5. Добавлено ДЗ-03 в [talk_05](https://github.com/kshilin/dawp/tree/master/talk_05%20(pandas%202)) 
 6. Добавлено [ДЗ-04](https://classroom.github.com/a/myGd_kxW)
 7. Опубликован [результат контрольной](https://github.com/kshilin/dawp/blob/master/AD-2020-EiF.pdf)
+
+8. Финальная контрольная https://classroom.github.com/a/Qcr0idwj срок до 23.00 до 27декабря.
