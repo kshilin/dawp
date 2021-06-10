@@ -7,3 +7,5 @@
 - Размешено домашнее задание 2 (см. папку meeting 07 файл README.md)
 - Размешено домашнее задание 3 (про торговый робот) https://classroom.github.com/a/Oh2u4Yop
 
+https://classroom.github.com/a/BujmTHrl
+
