@@ -1,4 +1,4 @@
-### Пробное домашнее [задание ...](https://classroom.github.com/a/2Zx2DzsD)
+###  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
 
 # Каталог курса "Введение в анализ данных с Python" 
 
