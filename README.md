@@ -1,6 +1,5 @@
-```diff
-- В 13 meeting добавлена ссылка на репозиторий для ваших роботов
-```
+
+[конкурс репозиторий](https://classroom.github.com/a/V5FDkr0-)
 
 ###  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
 
