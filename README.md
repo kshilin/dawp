@@ -1,5 +1,5 @@
 
-[конкурс репозиторий](https://classroom.github.com/a/V5FDkr0-)
+[экзамен](https://classroom.github.com/a/SYkOIyrX)
 
 ###  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
 
