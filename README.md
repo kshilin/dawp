@@ -18,6 +18,8 @@
 
 Альтернатива Уэс Маккини </br>
 [Груздев Артем Владимирович, Хейдт Майкл. Изучаем pandas](https://www.ozon.ru/product/izuchaem-pandas-gruzdev-artem-vladimirovich-heydt-maykl-217051180/?asb=RXqk9m9qisifw7T%252FcLtnLmAVgfHiEbeXRaIsYlGYNjQ%253D&asb2=Qv6c7KPgkcW7OW3lbz0IqkopECisE4wmJ1jHLoc5kdI&keywords=pandas&sh=sgwDplx4)
+[Пасхавер Борис. Pandas в действии.](https://www.ozon.ru/product/pandas-v-deystvii-798301431/?sh=esPLFxgnPQ)
+
 
 На английском: 
 1.  [Python data science](https://www.ozon.ru/product/python-data-science-after-work-guide-to-start-learning-data-science-on-your-own-avoid-common-214805614/?asb=npSvM37uk1D16iG0cgBYoNhWWHvxqGp8QOqQX6G%252FPvk%253D&asb2=8qU0jYlFMYpZxY987FxNLRLx5pU1ofWS9FbP3gJ-ahM&keywords=pandas&sh=aySa8hFB) 
