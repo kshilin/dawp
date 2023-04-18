@@ -1,6 +1,3 @@
-
-https://classroom.github.com/a/8-vtk2n9
-
 ###  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
 
 # Каталог курса "Введение в анализ данных с Python" 
