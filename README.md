@@ -1,6 +1,4 @@
 
-https://classroom.github.com/a/CmT35Q-r
-
 ###  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
 
 # Каталог курса "Введение в анализ данных с Python" 
