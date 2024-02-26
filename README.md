@@ -5,7 +5,7 @@
 
 ### Текущий курс всегда в корневой папке. Архивные в папках по годам окончания курса. 
 
-<b>Основная литература (Внимание! только издание 2)</b>
+<b>Основная литература (Внимание! издание 2, а лучше 3)</b>
 
 [Маккини Уэс. Python и анализ данных](https://www.ozon.ru/product/python-i-analiz-dannyh-makkini-ues-217051463/?asb=A47WIyTuTrgb7nwko%252BdbbXPLUhtPl1nV34h%252BmVMklfE%253D&asb2=tlgWbg1twcU71fBcFbo4YTRqNS7lSBwpbBsu9qxoPhM&keywords=анализ+данных&sh=Q2aRDmlX)
 
