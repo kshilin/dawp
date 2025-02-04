@@ -1,5 +1,5 @@
 
-###  Сервис [скачать папку с Git ...](https://minhaskamal.github.io/DownGit/#/home)
+###  Сервис [скачать папку с Git ...](https://downgit.github.io/#/home)
 
 # Каталог курса "Введение в анализ данных с Python" 
 
