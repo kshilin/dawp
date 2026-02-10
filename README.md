@@ -17,6 +17,11 @@
 
 Просто почитать для эрудиции:</br>
 [Келлехер Джон Д. Наука о данных. Базовый курс](https://www.ozon.ru/product/nauka-o-dannyh-bazovyy-kurs-kelleher-dzhon-d-231026173/?asb=Xyx9Nf2z3SdZ5CVg8254haw6LvYawsNMYOs41KjQ7jw%253D&asb2=7k5hvMiganuMDhTXXbNSw5ey6CE51Zr5p6pH8wCX1eixUyL3ImGSFNxp7Lzyp2A8&sh=lzq5Iiar)
+[Савельев В. Статистика и котики](https://www.ozon.ru/category/knigi-16500/ast-27592746/?brand_was_predicted=true&category_was_predicted=true&deny_category_prediction=true&text=статистика+и+котики)
+
+Поиграть на планшете и вспомнить все алгоритмы - Human Resource Machine
+[Яблоко](https://apps.apple.com/ru/app/human-resource-machine/id1005098334)
+[Ведроид](https://play.google.com/store/apps/details%3Fid%3Dcom.tomorrowcorporation.humanresourcemachine%26hl%3Den&ved=2ahUKEwj1-eGhsc-SAxW4AxAIHRZVEGgQFnoECB0QAQ&usg=AOvVaw2ugzAdafe-l_dzWZvY30Ms)
 
 На английском почитать для эрудиции:</br>
 1.  [Python data science](https://www.ozon.ru/product/python-data-science-after-work-guide-to-start-learning-data-science-on-your-own-avoid-common-214805614/?asb=npSvM37uk1D16iG0cgBYoNhWWHvxqGp8QOqQX6G%252FPvk%253D&asb2=8qU0jYlFMYpZxY987FxNLRLx5pU1ofWS9FbP3gJ-ahM&keywords=pandas&sh=aySa8hFB) 
